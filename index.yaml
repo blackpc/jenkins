@@ -9,4 +9,4 @@ distributions:
   hydro:
 #    release: hydro.yaml
     release_builds: [hydro-build.yaml]
-    release_cache: http://127.0.0.1/rosdistro/hydro-cache.yaml
+#    release_cache: http://127.0.0.1/rosdistro/hydro-cache.yaml

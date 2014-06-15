@@ -1,0 +1,11 @@
+%YAML 1.1
+# ROS build file
+# see REP 137: http://ros.org/reps/rep-0137.html
+---
+type: release-build
+version: 1
+targets:
+  wheezy: [armhf]
+jenkins_url: http://127.0.0.1:8080
+apt_target_repository: http://127.0.0.1/repos/building
+apt_mirrors: ['http://ros.raspbian.org/repo/ros']

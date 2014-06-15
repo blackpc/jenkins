@@ -3,7 +3,7 @@
 # see REP 137: http://ros.org/reps/rep-0137.html
 ---
 type: release-build
-version: 1
+version: 2
 targets:
   wheezy: [armhf]
 jenkins_url: http://127.0.0.1:8080
